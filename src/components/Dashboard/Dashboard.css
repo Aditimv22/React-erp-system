@@ -1,0 +1,47 @@
+.dashboard {
+    padding: 20px;
+    background-color: #f5f5f5;
+    border-radius: 5px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+  }
+  
+  h2{
+    text-align: center;
+  }
+  .metrics {
+    display: flex;
+    justify-content: space-around;
+    margin-bottom: 20px;
+  }
+  
+  .metric {
+    text-align: center;
+  }
+  
+  .label {
+    font-weight: bold;
+  }
+  
+  .value {
+    font-size: 24px;
+  }
+  
+  .navigation {
+    display: flex;
+    justify-content: center;
+
+  }
+  
+  .nav-button {
+    margin: 0 10px;
+    padding: 8px 16px;
+    background-color: #007bff;
+    color: #fff;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+  }
+  
+  .nav-button:hover {
+    background-color: #0056b3;
+  }
