@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/React-erp-system/static/css/main.53c7ce86.css",
+    "main.js": "/React-erp-system/static/js/main.7bd0c5d7.js",
+    "static/js/453.5f23178e.chunk.js": "/React-erp-system/static/js/453.5f23178e.chunk.js",
+    "index.html": "/React-erp-system/index.html",
+    "main.53c7ce86.css.map": "/React-erp-system/static/css/main.53c7ce86.css.map",
+    "main.7bd0c5d7.js.map": "/React-erp-system/static/js/main.7bd0c5d7.js.map",
+    "453.5f23178e.chunk.js.map": "/React-erp-system/static/js/453.5f23178e.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.53c7ce86.css",
+    "static/js/main.7bd0c5d7.js"
+  ]
+}
